@@ -15,3 +15,8 @@ These fonts may or may not be included in the repository
 ###Sans Serif
 
 - **[Gidole, by Andreas Larsen](https://github.com/gidole/sans)** — a geometric sans, along the lines of DIN. Currently in progress but available for download and usage. OFL license.
+
+Appendix
+--------
+
+LibreOffice has a bug that results in extra weights getting lost between Mac and Windows computers. I have modified Source Sans Pro and added duplicate ttf files in order to work around this bug.
